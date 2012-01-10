@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GBK" ?>
+<busipmcontent>
+	<requestid>请求序列号</requestid>
+	<busipmcount>2</busipmcount>
+	<error>error</error>
+	<performances>
+		<performance> 
+            <busipmseq>1</busipmseq>
+			<result>1</result>
+		</performance >
+		<performance> 
+			<busipmseq>2</busipmseq>
+			<result>1</result>
+		</performance> 
+	</performances>
+</busipmcontent>

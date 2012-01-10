@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="gb2312"?>
+<busipmcontent>
+	<busipmcount>1</busipmcount>
+	<performances>
+		<performance>
+			<busipmseq>1</busipmseq>
+			<busipmkpiid>BP-3017-0010-0000</busipmkpiid>
+			<busipmdesc>一天内生成的话单文件总个数</busipmdesc>
+			<dn>WXT.FEE</dn>
+			<begintime>20110331000000</begintime>
+			<endtime>20110401000000</endtime>
+			<value>1</value>
+		</performance>
+		<performance>
+			<busipmseq>2</busipmseq>
+			<busipmkpiid>BP-3017-0010-0000</busipmkpiid>
+			<busipmdesc>一天内生成的话单文件总个数</busipmdesc>
+			<dn>WXT.FEE</dn>
+			<begintime>20110331000000</begintime>
+			<endtime>20110401000000</endtime>
+			<value>1</value>
+		</performance>
+	</performances>
+</busipmcontent>

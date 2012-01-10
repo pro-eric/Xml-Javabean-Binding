@@ -1,0 +1,25 @@
+<list>
+	<classes>
+		<class>
+			<name>com.eric.agile.xml.entitys.BusiPmRespEntity</name>
+		</class>
+		<class>
+			<name>com.eric.agile.xml.entitys.BusiPmRespContainEntity</name>
+		</class>
+		<class>
+			<name>com.eric.agile.xml.entitys.Column</name>
+		</class>
+		<class>
+			<name>com.eric.agile.xml.entitys.ConfContainerEntity</name>
+		</class>
+		<class>
+			<name>com.eric.agile.xml.entitys.ProfileEntity</name>
+		</class>
+		<class>
+			<name>com.eric.agile.xml.entitys.Table</name>
+		</class>
+		<class>
+			<name>com.eric.agile.xml.entitys.XMLConvertible</name>
+		</class>
+	</classes>
+</list>

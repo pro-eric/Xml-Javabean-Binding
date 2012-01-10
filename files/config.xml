@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<soap-timeout>10000</soap-timeout>
+	<try-times>5</try-times>
+	<delay>90</delay><!-- delay percentage -->
+</configuration>
